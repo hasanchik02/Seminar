@@ -1,0 +1,15 @@
+D:\vsc\C#\Seminar\Condole4\bin\Debug\net7.0\Condole4.exe
+D:\vsc\C#\Seminar\Condole4\bin\Debug\net7.0\Condole4.deps.json
+D:\vsc\C#\Seminar\Condole4\bin\Debug\net7.0\Condole4.runtimeconfig.json
+D:\vsc\C#\Seminar\Condole4\bin\Debug\net7.0\Condole4.dll
+D:\vsc\C#\Seminar\Condole4\bin\Debug\net7.0\Condole4.pdb
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\Condole4.csproj.AssemblyReference.cache
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\Condole4.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\Condole4.AssemblyInfoInputs.cache
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\Condole4.AssemblyInfo.cs
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\Condole4.csproj.CoreCompileInputs.cache
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\Condole4.dll
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\refint\Condole4.dll
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\Condole4.pdb
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\Condole4.genruntimeconfig.cache
+D:\vsc\C#\Seminar\Condole4\obj\Debug\net7.0\ref\Condole4.dll
