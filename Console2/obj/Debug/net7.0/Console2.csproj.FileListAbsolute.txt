@@ -1,0 +1,15 @@
+D:\vsc\C#\Seminar\Console2\bin\Debug\net7.0\Console2.exe
+D:\vsc\C#\Seminar\Console2\bin\Debug\net7.0\Console2.deps.json
+D:\vsc\C#\Seminar\Console2\bin\Debug\net7.0\Console2.runtimeconfig.json
+D:\vsc\C#\Seminar\Console2\bin\Debug\net7.0\Console2.dll
+D:\vsc\C#\Seminar\Console2\bin\Debug\net7.0\Console2.pdb
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\Console2.csproj.AssemblyReference.cache
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\Console2.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\Console2.AssemblyInfoInputs.cache
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\Console2.AssemblyInfo.cs
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\Console2.csproj.CoreCompileInputs.cache
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\Console2.dll
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\refint\Console2.dll
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\Console2.pdb
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\Console2.genruntimeconfig.cache
+D:\vsc\C#\Seminar\Console2\obj\Debug\net7.0\ref\Console2.dll
